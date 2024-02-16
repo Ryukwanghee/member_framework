@@ -2,7 +2,7 @@ Spring Framework 회원프로젝트
 
 ## 개발환경
 - IntelliJ IDEA Ultimate
-- jdk 11
+- JDK: amazon corretto 11
 - mysql
 - mybatis
 - jsp
