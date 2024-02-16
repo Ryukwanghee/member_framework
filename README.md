@@ -1,7 +1,8 @@
 Spring Framework 회원프로젝트
 
 ## 개발환경
-- IntelliJ
+- IntelliJ IDEA Ultimate
+- jdk 11
 - mysql
 - mybatis
 - jsp
