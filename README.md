@@ -3,7 +3,7 @@ Spring Framework 회원프로젝트
 ## 개발환경
 - IntelliJ IDEA Ultimate
 - JDK: amazon corretto 11
-- mysql
+- mysql && mariaDB
 - mybatis
 - jsp
 - tomcat 9
